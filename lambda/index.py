@@ -1,4 +1,4 @@
-mbda/index.py
+#lambda/index.py
 import json
 import os
 import boto3
